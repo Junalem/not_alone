@@ -1,6 +1,6 @@
 # 📚 [Not Alone](https://www.not-alone.online/)
 
-Application made for [NPO OpSafe](http://opsafeintl.com/) for fast finding volunteers over the world and contacting them immediately when you need them by location. Application focused on a database of OpSafe's volunteers and includes a mailer for contacting them.
+Web application developed for [NPO OpSafe](http://opsafeintl.com/) (hosts camps for kids that have suffered from traumatic experiences) for fast finding volunteers over the world and contacting them immediately when you need them by location. Application focused on a database of OpSafe's volunteers and includes a mailer for contacting them.
 With this app you can find information about previous camps.
 
 <div class="d-flex">
