@@ -1,6 +1,6 @@
 # 📚 Not Alone
 
-Application made for NPO OpSafe (http://opsafeintl.com/) for fast finding volunteers over the world and contacting them immediately when you need them by location. Application focused on a database of OpSafe's volunteers and includes a mailer for contacting them.
+Application made for [NPO OpSafe](http://opsafeintl.com/) for fast finding volunteers over the world and contacting them immediately when you need them by location. Application focused on a database of OpSafe's volunteers and includes a mailer for contacting them.
 With this app you can find information about previous camps.
 
 <div class="d-flex">
@@ -76,15 +76,12 @@ rails s
 - [Figma](https://www.figma.com) — Prototyping
 
 ## Acknowledgements
-Inspired by work of o
+Inspired by work of OpSave owner Jonathan Wilson.
 ## Team Members
-Yulia Naumenko
-Keita Wilson
-Savithri Wewala
-Ayhem Chelly
+- [Yulia Naumenko](https://github.com/Junalem)
+- [Keita Wilson](https://github.com/dkwilson1991)
+- [Savithri Wewala](https://github.com/Sabi95)
+- [Ayhem Chelly](https://github.com/41FUTURE)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
