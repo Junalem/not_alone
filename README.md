@@ -1,4 +1,4 @@
-# 📚 [Not Alone](https://www.not-alone.online/)
+# <img width="120" alt="Screen Shot 2022-11-22 at 5 49 15 PM" src="https://user-images.githubusercontent.com/114731843/205795470-8cfa82c6-526a-46fc-a3bf-595ff7eb0b62.png"> [Not Alone](https://www.not-alone.online/)
 
 Web application developed for [NPO OpSafe](http://opsafeintl.com/) (hosts camps for kids that have suffered from traumatic experiences) for fast finding volunteers over the world and contacting them immediately when you need them by location. Application focused on a database of OpSafe's volunteers and includes a mailer for contacting them.
 With this app you can find information about previous camps.
