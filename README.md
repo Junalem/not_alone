@@ -13,8 +13,8 @@ With this app you can find information about previous camps.
 Create a new camp and find all upcoming camps by location. Find camps where you are joining. Send messages by location for volunteers by creating new camp.
 
 <div class="d-flex">
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/114731843/205541944-47fd1980-c898-4aa8-8402-4757a361a544.png">
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/114731843/205542196-e039179d-b802-421d-9a54-c396a601fa1e.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/114731843/205541944-47fd1980-c898-4aa8-8402-4757a361a544.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/114731843/205542196-e039179d-b802-421d-9a54-c396a601fa1e.png">
 </div>
 
 ### 
@@ -22,8 +22,8 @@ Create a new camp and find all upcoming camps by location. Find camps where you 
 As a user, you can apply for camp and choose a role you would like to help. Also can leave feedback about previous camps (share your experience about camp)
 
 <div class="d-flex">
-<img width="500" height="330" alt="image" src="https://user-images.githubusercontent.com/114731843/205542593-eb89d62a-2c54-44ca-9d92-dd85ad81e1df.png">
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/114731843/205544146-eeb63fd0-9fa1-4eda-a089-c49ead0e1f99.png">
+<img width="400" height="260" alt="image" src="https://user-images.githubusercontent.com/114731843/205542593-eb89d62a-2c54-44ca-9d92-dd85ad81e1df.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/114731843/205544146-eeb63fd0-9fa1-4eda-a089-c49ead0e1f99.png">
 </div>
 
 ### 
