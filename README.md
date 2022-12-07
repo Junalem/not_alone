@@ -5,7 +5,7 @@ With this app you can find information about previous camps.
 
 <div class="d-flex">
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/114731843/205537638-45a4d380-8129-4921-840e-903396fa95de.png">
-<img width="400" height="260" alt="image" src="https://user-images.githubusercontent.com/114731843/205544526-4d73fc99-710f-4b54-9a8f-5813f9d813eb.png">
+<img width="400" height="220" alt="image" src="https://user-images.githubusercontent.com/114731843/205544526-4d73fc99-710f-4b54-9a8f-5813f9d813eb.png">
 </div>
 
 ### 
